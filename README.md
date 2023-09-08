@@ -97,6 +97,6 @@ after getting these keys create .env file and check variable name from .env.exam
 ## UI
 
 <div>
-![Screenshot from 2023-09-08 15-06-44](https://github.com/Muhammad-waqar-uit/connectKitWagmiTypeChain/assets/57596726/6ba87acf-c96d-4054-a4a7-abf41842a2f0)
+<img src="https://github.com/Muhammad-waqar-uit/connectKitWagmiTypeChain/assets/57596726/6ba87acf-c96d-4054-a4a7-abf41842a2f0"/>
 </div>
 
